@@ -12,6 +12,7 @@ As a BI analyst, our job is to provide recommendations to maintain or increase s
   Create a master table by sorting the data based on the earliest to the latest transaction date
 - Step 4:
   Create visualizations that display sales data
+  https://lookerstudio.google.com/reporting/64d8932c-9ccd-493f-bf9b-4f5fa0bcb4b6 
 - Step 5:
   Recommendation:
   1. Identifikasi dan Fokus pada Produk Unggulan.
